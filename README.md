@@ -32,7 +32,6 @@ The specific code can be found in the [`Code`](./Code) folder.
 - Optimization Algorithms: Operations research optimization methods
 
 
-
 ## Project Highlights
 
 - Uses actual stock data for investment portfolio optimization.
@@ -47,6 +46,12 @@ The project is completed, including full code, data, and analysis reports.
 
 - Thanks to the Operations Research course team of Xi'an Jiaotong University for their support and guidance.
 - Thanks to all the group members who participated in the project.
+
+## Disclaimer
+
+This repository is intended for personal academic use and reference. It is recommended to understand and work through the materials independently before referring to the provided solutions. 
+
+Feel free to explore the content and reach out if you have any questions!
 
 <!--
 * **授课教师：** 徐占伯，西安交通大学（zhanbo.xu@xjtu.edu.cn）
